@@ -1,4 +1,4 @@
-<h1 style="color:skyblue" align="center"><b>Market Segmentation Using Credit Card Data</b></h1>
+<h1 style="color:red" align="center"><b>Market Segmentation Using Credit Card Data</b></h1>
 <a href="Image.jpeg" target="_blank">
     <img src="Customer_Segmentation.jpeg" alt="Customer Segmentation Using K-Meansl" width="800" />
 </a>
